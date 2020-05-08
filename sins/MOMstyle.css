@@ -185,7 +185,7 @@ div#controls
 #playpausebutton
 {
 	position: inherit;
-	left: 65px;
+	left: 40px;
 	top: 40px;
 
 }
@@ -193,8 +193,8 @@ div#controls
 #rotationbutton
 {
 	position: relative;
-	left: 110px;
-	top: 30px;
+	left: 100px;
+	top: 40px;
 
 }
 
