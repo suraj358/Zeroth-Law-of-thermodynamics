@@ -1,1 +1,1 @@
-# zerothlaw
+# Zeroth Law of thermodynamics
